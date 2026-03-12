@@ -52,6 +52,21 @@ top-gym/
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build |
 
+### התקנה על הטלפון
+
+**אנדרואיד (Chrome):**
+1. פתח את האתר בדפדפן Chrome
+2. לחץ על שלוש הנקודות ⋮
+3. בחר **"Add to Home screen"**
+
+**אייפון (Safari):**
+1. פתח את האתר ב-Safari
+2. לחץ על כפתור השיתוף
+3. בחר **"Add to Home Screen"**
+
+---
+
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
